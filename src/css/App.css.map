@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAQ,CACJ,UAAU,CAAE,MAAM,CAClB,KAAK,CAAE,IAAI,CACX,cAAc,CAAE,SAAS,CCH7B,IAAK,CACD,MAAM,CAAE,CAAC,CAET,UAAU,CAAE,oCAEhB",
+"sources": ["../scss/components/_header.scss","../scss/variables/_variables.scss"],
+"names": [],
+"file": "App.css"
+}
